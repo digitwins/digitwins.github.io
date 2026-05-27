@@ -6,7 +6,7 @@ This is the official website for the following paper:
 > 
 > **Accepted to ACM Transactions on Modeling and Computer Simulation (TOMACS) and published in Jan 2024**
 
-For the source code, please check: [https://github.com/digitwins/knowledge-equivalence-DT](https://github.com/digitwins/knowledge-equivalence-DT)
+For the source code, please check: [https://github.com/asia-lab-sustech/knowledge-equivalence-DT](https://github.com/asia-lab-sustech/knowledge-equivalence-DT)
 
 Cite as (BibTeX):
 
